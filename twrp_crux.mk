@@ -21,5 +21,3 @@ PRODUCT_NAME := twrp_crux
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Mi9 Pro 5G
 PRODUCT_MANUFACTURER := xiaomi
-
-PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
